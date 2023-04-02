@@ -1,4 +1,4 @@
-local Information = {
+⁹local Information = {
             
             ['WhitelistedUserIDs'] = {
                       3204456279, -- Traumatophile
@@ -19,7 +19,9 @@ local Information = {
             },
             ['DeveloperUserIDs'] = {
                   3204456279 -- Traumatophile
+            },
+            ['BlacklistedUserIDs'] = {
+                  1, -- Example user
             }
-                  
 }
 return Information
