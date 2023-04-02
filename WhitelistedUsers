@@ -4,7 +4,8 @@ local Information = {
                       3204456279, -- Traumatophile
                       84199299, -- Dragon10Flame
                       93000394, -- Flame10King
-                      2372652344 -- idfk
+                      2372652344, -- idfk
+                      153138458, -- coolboi
             },
 
             ['TargettedUserIDs'] = {
