@@ -14,7 +14,8 @@ local Information = {
 
             ['AdminUserIDs'] = {
                   93000394, -- Flame10King
-                  84199299 -- Dragon10Flame
+                  84199299, -- Dragon10Flame
+                  235393439 -- Mike
             },
             ['DeveloperUserIDs'] = {
                   3204456279 -- Traumatophile
