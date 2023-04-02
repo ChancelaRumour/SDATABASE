@@ -1,6 +1,6 @@
 local Information = {
             
-            ['WhitelistedUserIDs' = {
+            ['WhitelistedUserIDs'] = {
                       '3204456279', -- Traumatophile
                       '84199299', -- Dragon10Flame
                       '93000394', -- Flame10King
