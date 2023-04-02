@@ -1,20 +1,20 @@
 local Information = {
             
-["WhitelistedUserIDs"] = {
+            ["WhitelistedUserIDs"] = {
                       "3204456279", --- Traumatophile
                       "84199299", -- Dragon10Flame
                       "93000394", -- Flame10King
                       "2372652344" -- idfk
-},
+            },
 
-["TargettedUserIDs"] = {
+            ["TargettedUserIDs"] = {
                       "6465509722" --- Memento
-},
+            },
 
-["AdminUserIDs"] = {
+            ["AdminUserIDs"] = {
                   "93000394", -- Flame10King
                   "84199299" -- Dragon10Flame
-},
-["Debugging"] = "False",
+            },
+            ["Debugging"] = "False",
 }
 return Information
