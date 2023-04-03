@@ -11,7 +11,8 @@ local Information = {
             },
 
             ['TargettedUserIDs'] = {
-                      6465509722 --- Memento
+                      6465509722, --- Memento
+                      1294132237 -- Possibly Qaat but i honestly cba to check so
             },
 
             ['AdminUserIDs'] = {
@@ -23,7 +24,8 @@ local Information = {
                   3204456279 -- Traumatophile
             },
             ['BlacklistedUserIDs'] = {
-                  185414002 -- faggot
+                  185414002, -- faggot
+                  1294132237 -- Some random e-boy
             }
 }
 return Information
